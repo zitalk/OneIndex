@@ -4,7 +4,7 @@
 
 ## 参考项目预览地址：
 
-[0oVicero0大佬项目地址]("https://github.com/0oVicero0/oneindex")，[Zisbusy大佬项目地址]("https://github.com/Zisbusy/OneIndex-theme")，[我的项目参考地址]("https://download.99couple.top/")
+[0oVicero0大佬项目](https://github.com/0oVicero0/oneindex)，[Zisbusy大佬项目](https://github.com/Zisbusy/OneIndex-theme)，[我的项目参考](https://download.99couple.top/)
 
 ## 功能：
 
@@ -70,7 +70,7 @@ bash /etc/init.d/fcgiwrap-php restart
    - 这样我们在获取应用ID和应用密钥的时候是跳转到世纪互联代理的网站来登录的
    - 别问我知道的，因为你国际版的账户ID根本不在世纪互联的库里面，如果国际版的小伙伴也将注释去掉，你在获取应用ID时登录你的账户时，会提示你没有这个用户。
    - 对了，大佬在魔改原版OneIndex时去掉了获取应用ID和密钥的跳转按钮，附上新版链接（微软已经于2020年强制应用注册接入Microsoft Azure了，有兴趣的小伙伴可以搜索相关知识）
-   - [新版Microsoft Azure链接]("https://portal.azure.com/#home")
+   - [新版Microsoft Azure链接](https://portal.azure.com/#home)
 
 4. 我们先来打开新版Microsoft Azure链接来注册应用
 
