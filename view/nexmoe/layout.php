@@ -4,7 +4,6 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title><?php e(config('site_name').' - '.$title);?></title>
-	
 	<link rel="shortcut icon" href="//download.99couple.top/theme/favicon.ico">
 	<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css">
 	<link rel="stylesheet" href="//download.99couple.top/theme/style.css">
